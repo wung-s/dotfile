@@ -12,5 +12,5 @@ cd ~/.dotfile
 ### Creating Symlink
 ```
 #example
-$ ln -sf "$PROJECT_DIR/claude/CLAUDE.md" ~/.claude/CLAUDE.md
+$ ln -sf ~/.dotfile/claude/CLAUDE.md ~/.claude/CLAUDE.md
 ```
