@@ -11,6 +11,11 @@ cd ~/.dotfile
 
 ### Creating Symlink
 ```
-#example
+#example for a file
 $ ln -sf ~/.dotfile/claude/CLAUDE.md ~/.claude/CLAUDE.md
+
+# example for a directory
+# the destination directory (where symlink will be created) must not exist prior
+$ ln -sf ~/.dotfile/claude/skills/tdd ~/.claude/skills/tdd
+
 ```
