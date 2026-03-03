@@ -6,7 +6,7 @@ The installation creates symlinks from your home directory to the dotfiles repos
 ### Quick Start
 ```bash
 git clone git@github.com:wung-s/dotfile.git ~/.dotfile
-cd ~/.dotfiles
+cd ~/.dotfile
 ```
 
 ### Creating Symlink
